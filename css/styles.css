@@ -1,0 +1,22 @@
+body{
+  background-color: azure;
+  text-align: center;
+}
+
+ul {
+  font-family: cursive;
+}
+
+li{
+  color:green;
+  list-style: none;
+}
+
+h1{
+  font-size: 40px;
+}
+
+h2{
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+}
