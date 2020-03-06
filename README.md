@@ -6,12 +6,12 @@
 
 ## Description
 
-_I followed the instructions at Epicodus and this is the result_
+_A cat page which demonstrates html and css basics._
 
 ## Setup/Installation Requirements
 
-1. _Clone this_
-2. _and then open the .html files_
+No installation necessary. 
+Go to https://okilydokily.github.io/cat-page/
 
 ## Known Bugs
 
@@ -23,7 +23,7 @@ _Open a Github issue if you see a problem or have questions_
 
 ## Technologies Used
 
-_This is an html only thing._
+_This is an html and css thing._
 
 ### License
 
