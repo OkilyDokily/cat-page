@@ -28,3 +28,13 @@ h2{
 .dark {
  color:maroon;
 }
+
+#kittenmessage{
+  display:none;
+  cursor: pointer;
+  color:blue;
+}
+
+#kittenimg{
+  cursor: pointer;
+}

@@ -23,7 +23,7 @@ _Open a Github issue if you see a problem or have questions_
 
 ## Technologies Used
 
-_This is an html and css thing._
+_This is an html and css thing. with a bit of stealth jQuery tee hee_
 
 ### License
 
