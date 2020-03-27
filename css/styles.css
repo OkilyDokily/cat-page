@@ -1,4 +1,4 @@
-body{
+.brightbody{
   background-color: azure;
   text-align: center;
 }
@@ -7,8 +7,13 @@ ul {
   font-family: cursive;
 }
 
-li{
+.brightlist{
   color:green;
+  list-style: none;
+}
+
+.darklist {
+  color: greenyellow;
   list-style: none;
 }
 
@@ -26,7 +31,11 @@ h2{
 }
 
 .dark {
- color:maroon;
+ color:red;
+}
+
+.light {
+  color:maroon;
 }
 
 #kittenmessage{
@@ -37,4 +46,17 @@ h2{
 
 #kittenimg{
   cursor: pointer;
+}
+
+
+#darktoggle {
+  background-color: black;
+  color:white;  
+}
+
+.darkbody{
+  background-color: black;
+  color:white;
+  text-align: center;
+  
 }

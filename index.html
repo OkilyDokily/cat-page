@@ -3,18 +3,22 @@
   <head>
     <title>My Cat</title>
     <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/bootstrap.css">
     <script src="js/jquery-3.4.1.js"></script>
     <script src="js/scripts.js"></script>
   </head>
   
-  <body>
+  <body class="brightbody">
+   
+      <button id="darktoggle">Enable dark mode</button>
+    
     <h1>This is my Cat!</h1>
     <img src="https://p0.pikrepo.com/preview/409/479/orange-tabby-cat-on-gray-textile.jpg" alt="He's fat">
     <br>
     <br>
-    <p class="dark">As you (visually abled persons) can see, he is <strong>very</strong> fat.</p>
+    <p id="asyoucansee" class="light">As you (visually abled persons) can see, he is <strong>very</strong> fat.</p>
     <h2>What does he like to <em>eat?</em></h2>
-    <ul>
+    <ul id="list" class="brightlist">
       <li>Rodents</li>
       <li>Baby humans <i>(he tries)</i></li>
       <li>Purina</li>
