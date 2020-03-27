@@ -60,3 +60,11 @@ h2{
   text-align: center;
   
 }
+
+.lightmode::before {
+  content: "Enable dark mode"
+}
+
+.darkmode::before {
+  content: "Disable dark mode"
+}

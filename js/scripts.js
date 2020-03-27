@@ -10,6 +10,11 @@ $(document).ready(function(){
   });
 
   $("#darktoggle").click(function(){
+
+    $("#darktoggle").toggleClass("lightmode");
+    $("#darktoggle").toggleClass("darkmode")
+
+
     $("body").toggleClass("brightbody");
     $("body").toggleClass("darkbody");
   
